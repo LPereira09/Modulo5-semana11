@@ -1,0 +1,8 @@
+El login en una aplicación es el proceso mediante el cual un usuario ingresa sus credenciales (como usuario y contraseña) para acceder al sistema.  
+Este mecanismo permite identificar al usuario y darle acceso solo a las funciones que le corresponden según su rol.  
+Algunas rutas deben estar protegidas porque contienen información privada, registros internos o acciones críticas que no deberían estar disponibles para cualquier persona.  
+Por ejemplo, rutas de administración, gestión de reportes o configuración del sistema requieren autenticación para evitar accesos indebidos.  
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos, direcciones, tokens, claves de API ni datos sensibles de la comunidad.  
+La protección de estas rutas garantiza la seguridad, la privacidad y la confianza en la plataforma.  
+Dejar rutas abiertas sin control podría comprometer la integridad de la información y la participación ciudadana.  
+Por eso, la autenticación es un componente esencial en cualquier solución comunitaria o de veeduría.
